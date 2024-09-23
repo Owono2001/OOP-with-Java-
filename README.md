@@ -19,6 +19,7 @@ The project applied key object-oriented programming (OOP) concepts such as Encap
 Pedro Fabian Owono Ondo Mangue was responsible for developing the Admin and Customer login and registration sections of the application, ensuring secure access to the system for both user roles. Lam Weng Yew worked on the Customer booking pages and Admin functionalities, handling car management and booking status updates.
 
 Team Members:
+
 Pedro Fabian Owono Ondo Mangue (TP063251)
 
 Lam Weng Yew (TP065720)​
